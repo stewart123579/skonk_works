@@ -1,9 +1,11 @@
 # Vifortech Projects
 
-Nothing to see here...
+Thanks for your interest, but really there's nothing to see here...
 
-[![A skunk](https://raw.githubusercontent.com/v4tech/skonk_works/master/docs/skunk.png "Skunk")](https://en.wikipedia.org/wiki/Skunkworks_project)
+[![Skunkworks](https://raw.githubusercontent.com/v4tech/skonk_works/master/docs/skunk.png "Skunkworks")](https://en.wikipedia.org/wiki/Skunkworks_project)
 
+### *Fear not!*
+When we launch we'll be sure to publicise it, but currently we're keeping our offerings quiet.
 
 ---
 
